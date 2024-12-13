@@ -1,3 +1,4 @@
 # startup-of-the-year
+Exercise project from ZTM
 Starter project!
-*visist https://zerotomastery.io/ for more*
+*visist https://dakopytov.github.io/cv/ for more*
